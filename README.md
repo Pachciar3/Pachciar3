@@ -1,8 +1,8 @@
-### Hello 👋
+## Hello 👋
 
 My name is Dawid Pachciarek, I'm Front-end developer.
 
-## Skills 
+### Skills 
 - **React**: Strong knowledge of React and its ecosystem, including Redux, React Router and hooks.
 - **JavaScript**: Proficient in modern JavaScript syntax and features, as well as ES6 and beyond.
 - **TypeScript**: Experience using TypeScript to build scalable and maintainable applications.
