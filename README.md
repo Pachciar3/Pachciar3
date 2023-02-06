@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is **Dawid Pachciarek**, I'm Front-end developer at Usertive.
+My name is **Dawid Pachciarek**, I'm Front-end developer at Usertive. I am open to remote and on-site work.
 
 ### Skills 
 - **React**: Strong knowledge of React and its ecosystem, including Redux, React Router and hooks.
