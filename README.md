@@ -12,7 +12,7 @@ My name is **Dawid Pachciarek**, I'm Front-end developer at Usertive.
 - **CSS**: Experience with modern CSS techniques, including CSS-in-JS, grid and flexbox layouts, and CSS animations.
 
 ### Contact
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawid-pachciarek/)\
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawid-pachciarek/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dawid.pachciarek.5@gmail.com
 )
 <!--
