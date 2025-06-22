@@ -1,15 +1,23 @@
 ## Hello 👋
 
-My name is **Dawid Pachciarek**, I'm Front-end developer. I am open to remote and on-site work.
+My name is **Dawid Pachciarek**, I'm Front-end developer specializing in modern React architectures and creating AI-driven apps. I am open to remote and on-site work.
 
 ### Skills 
-- **React**: Strong knowledge of React and its ecosystem, including Redux, React Router and hooks.
-- **JavaScript**: Proficient in modern JavaScript syntax and features, as well as ES6 and beyond.
-- **TypeScript**: Experience using TypeScript to build scalable and maintainable applications.
-- **Next.js**: Familiarity with Next.js for server-side rendering and optimized performance.
-- **Emotion.js**: Knowledge of Emotion.js for styling components and keeping them maintainable.
-- **HTML**: Solid understanding of HTML5.
-- **CSS**: Experience with modern CSS techniques, including CSS-in-JS, grid and flexbox layouts, and CSS animations.
+- **React & Next.js**  
+  - Scalable apps with SSR, dynamic routing & performance optimization  
+  - State management: Redux Toolkit (Thunk/Saga), Context API, Hooks
+- **TypeScript & Modern JavaScript**  
+  - Strong typing with TypeScript; fluent in ES6 and beyond (async/await, modules, destructuring)
+- **CSS-in-JS & UI**  
+  - Styled Components, Emotion.js, MUI  
+  - Responsive design with CSS Grid, Flexbox & lightweight animations
+- **API integrations**  
+  - REST APIs with zod/yup validation and error handling  
+  - WebSocket comunnication protocol
+  - Okta Auth0 and token‑based security
+- **Testing & CI/CD**  
+  - Unit/integration tests with Jest and Cypress  
+  - CI/CD automation via GitHub Actions; clean‑code (DRY, KISS) & technical debt management  
 
 ### Contact
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawid-pachciarek/)
