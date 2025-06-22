@@ -2,7 +2,7 @@
 
 My name is **Dawid Pachciarek**, I'm Front-end developer specializing in modern React architectures and creating AI-driven apps. I am open to remote and on-site work.
 
-### Skills 
+### Technical Skills 
 - **React & Next.js**  
   - Scalable apps with SSR, dynamic routing & performance optimization  
   - State management: Redux Toolkit (Thunk/Saga), Context API, Hooks
