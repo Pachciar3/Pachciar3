@@ -15,7 +15,7 @@ Hi, I’m **Dawid Pachciarek**, — Front-end Developer. I build modern React/Ne
 - **Testing** - Jest, Cypress, Storybook
 - **CMS** - Contenful, Strapi, Wordpress
 - **Aarchitecture** — Monorepo, Atomic Design, Hexagon architecture 
-- **Tools & code editors** - Webstorm, Cursor AI
+- **Tools & code editors** - Webstorm, Cursor AI, ESLint, Babel, Husky, Prettier
 - **Other** — CI/CD (GitHub Actions/Azure DevOps/Vercel), a11y, code reviews, DRY/KISS
 
 <details>
