@@ -9,7 +9,7 @@ Hi, I’m **Dawid Pachciarek**, — Front-end Developer. I build modern React/Ne
 - **React & Next.js** — SSR/SSG, routing, SEO & performance tuning  
 - **TypeScript & modern JS** — strong typing, ES2015+  
 - **State & data** — TanStack Query, Redux Toolkit, Context, Hooks  
-- **Styling & UI** — Tailwind, SCSS, Emotion, Styled Components, Storybook, Atomic Design  
+- **Styling** — CSS, Tailwind, SCSS, Emotion, Styled Components, Vanilla Extract, CSS Modules
 - **APIs** — GraphQL, REST, WebSocket, schema validation (Zod/Yup),
 - **Auth** — Okta/Auth0, token-based flows
 - **Testing** - Jest, Cypress, Storybook
