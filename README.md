@@ -2,6 +2,9 @@
 
 Hi, I’m **Dawid Pachciarek**, — Front-end Developer. I build modern React/Next.js apps with TypeScript, focusing on performance, accessibility (WCAG), and clean architecture. I occasionally ship AI-assisted features (OpenAI API).
 
+> **Note on open source:**  
+> At the moment I’m **not contributing to public repositories**. Most of my work lives in **private company repositories under NDA**.
+
 ### Core Technical Skills 
 - **React & Next.js** — SSR/SSG, routing, SEO & performance tuning  
 - **TypeScript & modern JS** — strong typing, ES2015+  
@@ -22,9 +25,6 @@ Hi, I’m **Dawid Pachciarek**, — Front-end Developer. I build modern React/Ne
 - Predictable delivery, strong collaboration, thoughtful code reviews  
 - Performance and accessibility treated as first-class requirements  
 </details>
-
-> **Note on open source:**  
-> At the moment I’m **not contributing to public repositories**. Most of my work lives in **private company repositories under NDA**.
 
 ### Availability
 Open to **remote** and **on-site** opportunities.
